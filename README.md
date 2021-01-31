@@ -1,5 +1,7 @@
 # Integrantes:
 * Juan Sebastian Hoyos
+  js.hoyosm
+  201822167
 -----------------------------------
 
 
